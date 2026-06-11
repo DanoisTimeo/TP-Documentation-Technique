@@ -4,7 +4,6 @@ EcoRide est une API qui aide les utilisateurs à choisir le mode de transport le
 
 - **Condition météo** (pluie, nuageux, soleil)
 - **Situation du trafic** (fluide, saturé)
-- **Estimation du temps** de trajet
 
 ### Modes de transport disponibles
 

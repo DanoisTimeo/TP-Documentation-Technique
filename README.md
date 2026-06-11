@@ -2,11 +2,6 @@
 
 EcoRide est une API qui aide les utilisateurs à choisir le mode de transport le plus adapté selon:
 
-- **Condition météo** (pluie, nuageux, soleil)
-- **Situation du trafic** (fluide, saturé)
-
-### Modes de transport disponibles
-
 | Transport                    | Conditions                   |
 | ---------------------------- | ---------------------------- |
 | Métro / Tram                 | Pluie + Trafic saturé        |
